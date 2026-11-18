@@ -1,4 +1,4 @@
-# Design system — Portfólio de transporte escolar
+# Design system — Portfólio de condução escolar
 
 > Documento em construção. Reúne as referências e decisões visuais da conversa e será atualizado conforme chegarem novas ideias.
 
@@ -15,7 +15,7 @@ Nesta etapa, o foco é definir a direção visual antes de implementar o site.
 - Grid de linhas finas e discretas ao fundo, inspirado na segunda referência.
 - O fundo azul com grid cobre a hero; a faixa superior de navegação tem fundo branco de ponta a ponta, conforme o refinamento mais recente.
 - Hero de ponta a ponta da tela, sem margens brancas laterais e sem cantos arredondados; o conteúdo mantém respiro interno.
-- Topo sem a logo provisória de transporte escolar.
+- Topo sem a logo provisória de condução escolar.
 - Imagem da van integrada à hero por uma transição em degradê, sem moldura de cartão.
 - Hero sem os textos acessórios superiores, cartão sobre a van e faixa inferior de chamada. Manter título, apresentação e botão principal.
 - Seção de cuidado sem o rótulo “01 / O que importa”; o título “O trajeto é curto. O cuidado é grande.” abre a seção à esquerda, com o parágrafo de apoio à direita no desktop.
@@ -127,7 +127,7 @@ A referência mostra um profissional sorrindo em destaque. O que agradou foi a s
 
 ### Proposta de posicionamento, a validar
 
-Usar o retrato em uma seção de apresentação do motorista, acompanhando um texto breve sobre ele e seu trabalho com transporte escolar. A posição final ainda será definida, mantendo a van como elemento principal da hero.
+Usar o retrato em uma seção de apresentação do motorista, acompanhando um texto breve sobre ele e seu trabalho com condução escolar. A posição final ainda será definida, mantendo a van como elemento principal da hero.
 
 A pessoa usada provisoriamente é ilustrativa; sua identidade não deve ser apresentada como a do tio. O uniforme de entregador, as caixas, os textos e o grafismo verde da referência não fazem parte da direção escolhida.
 

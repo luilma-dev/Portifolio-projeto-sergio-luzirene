@@ -2,7 +2,7 @@
 
 ## Referência e evidências
 
-- Fonte visual: referência mobile anexada pelo usuário nesta conversa, 236 × 528 pixels. Trata-se de uma adaptação ao transporte escolar e à tipografia existente, conforme solicitado.
+- Fonte visual: referência mobile anexada pelo usuário nesta conversa, 236 × 528 pixels. Trata-se de uma adaptação à condução escolar e à tipografia existente, conforme solicitado.
 - Estado: início da página, menu fechado, imagem carregada.
 - Implementação mobile: `output/qa/hero-mobile.png`, viewport e imagem de 390 × 844, deviceScaleFactor 1.
 - Implementação desktop: `output/qa/hero-desktop.png`, viewport e imagem de 1280 × 900, deviceScaleFactor 1.
