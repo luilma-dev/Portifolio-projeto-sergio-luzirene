@@ -1,0 +1,5 @@
+Tool: built-in ImageGen
+Source: assets/van-escolar.webp
+Output: assets/van-recortada.png
+
+Use case: background-extraction. Edit target: the supplied photograph of a white Brazilian school van. Remove the entire background, including building, trees, sky, pavement and cast ground shadow. Deliver a clean photorealistic PNG cutout of ONLY the SAME van on actual transparent alpha background. Preserve exact van identity, front-left three-quarter view, white paint, yellow stripe, windows, tires, mirrors, antenna and the exact black word ESCOLAR. Keep the complete vehicle uncropped, with small even transparent margins, landscape canvas. Preserve crisp natural edges and opaque vehicle body. No new scenery, no blue fill, no checkerboard painted into image, no added graphics, no watermark.
