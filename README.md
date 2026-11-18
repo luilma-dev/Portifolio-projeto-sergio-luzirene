@@ -10,6 +10,10 @@ Para conferir no celular conectado ao mesmo Wi-Fi, execute `npm run dev:lan` e a
 
 ## Preparar para publicação
 
+O GitHub Pages usa o workflow `.github/workflows/pages.yml`. Em **Settings → Pages → Source**, selecione **GitHub Actions**. Cada envio para `main` verifica o código, gera `dist/` e publica o site automaticamente. O andamento aparece na aba **Actions**.
+
+Endereço: https://luilma-dev.github.io/Portifolio-projeto-sergio-luzirene/
+
 1. Preencha o nome e o WhatsApp real em `config.js` (DDI 55, DDD e número).
 2. Atualize a apresentação do profissional, as escolas, os bairros e as condições reais do serviço em `index.html`.
 3. Substitua as imagens ilustrativas em `assets/` por fotos autorizadas, quando disponíveis. Atualize os textos alternativos e as legendas.
